@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SubscribeGUIStatically", "SubscribeGUIStatically.vbproj", "{48255576-DF1E-4871-82F9-B094CEC88E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{48255576-DF1E-4871-82F9-B094CEC88E8C}.Debug.ActiveCfg = Debug|.NET
+		{48255576-DF1E-4871-82F9-B094CEC88E8C}.Debug.Build.0 = Debug|.NET
+		{48255576-DF1E-4871-82F9-B094CEC88E8C}.Release.ActiveCfg = Release|.NET
+		{48255576-DF1E-4871-82F9-B094CEC88E8C}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PublishSharedEvents", "PublishSharedEvents.vbproj", "{FEC75585-3DE0-4B7F-810D-F52F9A287EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FEC75585-3DE0-4B7F-810D-F52F9A287EDD}.Debug.ActiveCfg = Debug|.NET
+		{FEC75585-3DE0-4B7F-810D-F52F9A287EDD}.Debug.Build.0 = Debug|.NET
+		{FEC75585-3DE0-4B7F-810D-F52F9A287EDD}.Release.ActiveCfg = Release|.NET
+		{FEC75585-3DE0-4B7F-810D-F52F9A287EDD}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
